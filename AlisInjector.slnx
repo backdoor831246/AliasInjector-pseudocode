@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AlisInjector/AlisInjector.vcxproj" Id="c31b6fd0-e626-4e3f-9cb2-5a88e47571ae" />
+</Solution>
